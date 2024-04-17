@@ -1,0 +1,8 @@
+.navbarEstilo {
+    display: flex;
+    justify-content: space-between;
+    background-color: 333;
+    color: black;
+    align-items: center;
+    
+}

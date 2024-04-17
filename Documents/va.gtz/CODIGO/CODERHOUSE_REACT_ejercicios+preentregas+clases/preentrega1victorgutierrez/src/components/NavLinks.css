@@ -1,0 +1,11 @@
+.navLinks {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    text-decoration: none;
+    gap: 10px;
+    padding-right: 160px;
+    color: black;
+    font-weight: bold;
+
+}
